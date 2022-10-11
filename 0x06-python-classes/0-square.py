@@ -4,4 +4,5 @@ class Square:
     '''An empty class'''
     square = ''
 
+
 s = Square()
