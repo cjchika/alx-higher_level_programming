@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+# 1-square
 """Defines a square """
 
 
